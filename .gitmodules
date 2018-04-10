@@ -1,0 +1,12 @@
+[submodule "vendor/github.com/blacked/go-zabbix"]
+	path = vendor/github.com/blacked/go-zabbix
+	url = https://github.com/blacked/go-zabbix
+[submodule "vendor/github.com/docopt/docopt-go"]
+	path = vendor/github.com/docopt/docopt-go
+	url = https://github.com/docopt/docopt-go
+[submodule "vendor/github.com/go-sql-driver/mysql"]
+	path = vendor/github.com/go-sql-driver/mysql
+	url = https://github.com/go-sql-driver/mysql
+[submodule "vendor/github.com/zazab/hierr"]
+	path = vendor/github.com/zazab/hierr
+	url = https://github.com/zazab/hierr

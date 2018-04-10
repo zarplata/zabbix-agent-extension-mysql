@@ -28,6 +28,11 @@ This extension obtains stats of three types:
 - [x] Threads running
 - [x] Uptime
 
+#### Process stats
+
+- [x] Processlist count
+- [x] Max query time
+
 #### Galera stats
 
 - [x] Galera cluster size
@@ -78,6 +83,13 @@ makepkg
 
 #Installing
 pacman -U *.tar.xz
+```
+
+### Requirements
+
+Add mysql users:
+```sh
+GRANT REPLICATION CLIENT,PROCESS ON *.* TO 'zabbix'@'127.0.0.1'  IDENTIFIED BY 'zabbix';
 ```
 
 ### Dependencies
