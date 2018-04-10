@@ -1,0 +1,6 @@
+.out/ 
+*.xz
+/src
+/pkg
+/vendor/src
+/zabbix-agent-extension-mysql
