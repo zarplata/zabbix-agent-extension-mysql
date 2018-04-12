@@ -10,3 +10,6 @@
 [submodule "vendor/github.com/zazab/hierr"]
 	path = vendor/github.com/zazab/hierr
 	url = https://github.com/zazab/hierr
+[submodule "vendor/github.com/reconquest/hierr-go"]
+	path = vendor/github.com/reconquest/hierr-go
+	url = https://github.com/reconquest/hierr-go

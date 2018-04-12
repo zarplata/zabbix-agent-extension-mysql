@@ -2,5 +2,5 @@
 *.xz
 /src
 /pkg
-/vendor/src
+/vendor/*
 /zabbix-agent-extension-mysql
