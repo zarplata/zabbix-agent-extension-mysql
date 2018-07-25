@@ -15,7 +15,7 @@ func discovery(dsn string) error {
 	if err != nil {
 		return hierr.Errorf(err, "can't get galera stats.")
 	}
-	if len(statsGalera) == 1 {
+	if len(statsGalera[0]) > 1 {
 		discoveredItem := make(map[string]string)
 		discoveredItem["{#TYPE}"] = "galera"
 		discoveredItems = append(discoveredItems, discoveredItem)

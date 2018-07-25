@@ -47,7 +47,7 @@ Misc options:
   --version                   Show version.
   -h --help                   Show this screen.
 `
-	args, err := docopt.Parse(usage, nil, true, version, false)
+	args, err := docopt.ParseArgs(usage, nil, version)
 	if err != nil {
 		fmt.Println(hierr.Errorf(err, "can't parse docopt"))
 		os.Exit(1)
