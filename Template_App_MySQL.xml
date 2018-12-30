@@ -7,7 +7,7 @@
             <name>Templates/Databases</name>
         </group>
         <group>
-            <name>￼￼Templates/Used</name>
+            <name>Templates/Used</name>
         </group>
     </groups>
     <templates>
@@ -20,7 +20,7 @@
                     <name>Templates/Databases</name>
                 </group>
                 <group>
-                    <name>￼￼Templates/Used</name>
+                    <name>Templates/Used</name>
                 </group>
             </groups>
             <applications>
@@ -2343,3 +2343,4 @@
         </value_map>
     </value_maps>
 </zabbix_export>
+
