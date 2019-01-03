@@ -94,7 +94,7 @@ GRANT REPLICATION CLIENT,PROCESS ON *.* TO 'zabbix'@'127.0.0.1'  IDENTIFIED BY '
 
 ### Dependencies
 
-zabbix-agent-extension-elasticsearch requires [zabbix-agent](http://www.zabbix.com/download) v3.4+ to run.
+zabbix-agent-extension-mysql requires [zabbix-agent](http://www.zabbix.com/download) v3.4+ to run.
 
 ### Zabbix configuration
 In order to start getting metrics, it is enough to import template and attach it to monitored node.
