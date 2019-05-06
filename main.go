@@ -35,7 +35,7 @@ Zabbix options:
                                 [default: 127.0.0.1].
   -p --port <port>            Port of zabbix server [default: 10051].
   --zabbix-prefix <prefix>    Add part of your prefix for key [default: None].
-	-h --host <host>            Host to send metrics to [default: os.Hostname()]
+  -o --hostname <hostname>    Host to send metrics to [default: ` + obtainHostname() + `]
 
 MySQL options:
   -n --network <net>          Network type unix or tcp [default: tcp].
@@ -68,14 +68,7 @@ Misc options:
 		zabbixPrefix = fmt.Sprintf("%s.%s", zabbixPrefix, "mysql")
 	}
 
-	hostname := args["--host"].(string)
-	if hostname == "os.Hostname()" {
-		hostname, err = os.Hostname()
-		if err != nil {
-			fmt.Println(err.Error())
-			os.Exit(1)
-		}
-	}
+	hostname := args["--hostname"].(string)
 
 	network := args["--network"].(string)
 
@@ -138,4 +131,13 @@ Misc options:
 	)
 	sender.Send(packet)
 	fmt.Println("OK")
+}
+
+func obtainHostname() string {
+	hostname, err := os.Hostname()
+	if err != nil {
+		panic(err)
+	}
+
+	return hostname
 }
