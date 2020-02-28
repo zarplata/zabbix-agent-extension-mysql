@@ -36,6 +36,7 @@ var (
 		"wsrep_cluster_status",
 		"wsrep_connected",
 		"wsrep_evs_state",
+		"wsrep_evs_repl_latency",
 		"wsrep_last_committed",
 		"wsrep_local_bf_aborts",
 		"wsrep_local_cert_failures",

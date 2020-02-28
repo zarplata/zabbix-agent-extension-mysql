@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
-    <version>3.4</version>
-    <date>2018-02-26T09:19:17Z</date>
+    <version>4.2</version>
+    <date>2020-02-28T07:46:44Z</date>
     <groups>
         <group>
             <name>Templates/Databases</name>
@@ -73,9 +73,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -119,9 +139,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -165,9 +205,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -211,9 +271,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -257,9 +337,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -303,9 +403,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -349,9 +469,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -395,9 +535,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -441,9 +601,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -487,9 +667,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -533,9 +733,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -543,7 +763,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>mysql.global.stats[{$ZABBIX_SERVER_IP},{$MYSQL_DSN},{$MYSQL_USER},{$MYSQL_PASS},global]</key>
+                    <key>mysql.global.stats[{$ZABBIX_SERVER_IP},{$ZABBIX_SERVER_PORT},{$MYSQL_DSN},{$MYSQL_USER},{$MYSQL_PASS},global]</key>
                     <delay>30s</delay>
                     <history>90d</history>
                     <trends>0</trends>
@@ -577,6 +797,24 @@
                     <logtimefmt/>
                     <preprocessing/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -584,7 +822,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>mysql.global.stats[{$ZABBIX_SERVER_IP},{$MYSQL_DSN},{$MYSQL_USER},{$MYSQL_PASS},process]</key>
+                    <key>mysql.global.stats[{$ZABBIX_SERVER_IP},{$ZABBIX_SERVER_PORT},{$MYSQL_DSN},{$MYSQL_USER},{$MYSQL_PASS},process]</key>
                     <delay>30s</delay>
                     <history>90d</history>
                     <trends>0</trends>
@@ -618,6 +856,24 @@
                     <logtimefmt/>
                     <preprocessing/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -661,9 +917,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -707,9 +983,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -753,9 +1049,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -799,9 +1115,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -843,6 +1179,24 @@
                     <logtimefmt/>
                     <preprocessing/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -886,9 +1240,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -930,6 +1304,24 @@
                     <logtimefmt/>
                     <preprocessing/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -973,9 +1365,29 @@
                         <step>
                             <type>10</type>
                             <params/>
+                            <error_handler>0</error_handler>
+                            <error_handler_params/>
                         </step>
                     </preprocessing>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -1017,6 +1429,24 @@
                     <logtimefmt/>
                     <preprocessing/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -1058,6 +1488,24 @@
                     <logtimefmt/>
                     <preprocessing/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
                 <item>
@@ -1099,6 +1547,24 @@
                     <logtimefmt/>
                     <preprocessing/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <output_format>0</output_format>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
                     <master_item/>
                 </item>
             </items>
@@ -1147,7 +1613,7 @@
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>mysql.galera.stats[{$ZABBIX_SERVER_IP},{$MYSQL_DSN},{$MYSQL_USER},{$MYSQL_PASS},{#TYPE}]</key>
+                            <key>mysql.galera.stats[{$ZABBIX_SERVER_IP},{$ZABBIX_SERVER_PORT},{$MYSQL_DSN},{$MYSQL_USER},{$MYSQL_PASS},{#TYPE}]</key>
                             <delay>30s</delay>
                             <history>90d</history>
                             <trends>0</trends>
@@ -1181,8 +1647,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera cluster size</name>
@@ -1223,8 +1707,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera cluster state uuid</name>
@@ -1265,8 +1767,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera cluster status</name>
@@ -1307,8 +1827,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera connected</name>
@@ -1349,8 +1887,296 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
+                        </item_prototype>
+                        <item_prototype>
+                            <name>Galera replication latency average</name>
+                            <type>18</type>
+                            <snmp_community/>
+                            <snmp_oid/>
+                            <key>mysql.wsrep_evs_repl_latency.average.[{#TYPE}]</key>
+                            <delay>0</delay>
+                            <history>90d</history>
+                            <trends>365d</trends>
+                            <status>0</status>
+                            <value_type>0</value_type>
+                            <allowed_hosts/>
+                            <units>s</units>
+                            <snmpv3_contextname/>
+                            <snmpv3_securityname/>
+                            <snmpv3_securitylevel>0</snmpv3_securitylevel>
+                            <snmpv3_authprotocol>0</snmpv3_authprotocol>
+                            <snmpv3_authpassphrase/>
+                            <snmpv3_privprotocol>0</snmpv3_privprotocol>
+                            <snmpv3_privpassphrase/>
+                            <params/>
+                            <ipmi_sensor/>
+                            <authtype>0</authtype>
+                            <username/>
+                            <password/>
+                            <publickey/>
+                            <privatekey/>
+                            <port/>
+                            <description/>
+                            <inventory_link>0</inventory_link>
+                            <applications>
+                                <application>
+                                    <name>Galera</name>
+                                </application>
+                            </applications>
+                            <valuemap/>
+                            <logtimefmt/>
+                            <preprocessing>
+                                <step>
+                                    <type>5</type>
+                                    <params>(^\d+\.\d+)\/(\d+\.\d+)\/(\d+\.\d+)
+\2</params>
+                                    <error_handler>0</error_handler>
+                                    <error_handler_params/>
+                                </step>
+                            </preprocessing>
+                            <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>0</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
+                            <application_prototypes/>
+                            <master_item>
+                                <key>mysql.wsrep_evs_repl_latency.[{#TYPE}]</key>
+                            </master_item>
+                        </item_prototype>
+                        <item_prototype>
+                            <name>Galera replication latency maximum</name>
+                            <type>18</type>
+                            <snmp_community/>
+                            <snmp_oid/>
+                            <key>mysql.wsrep_evs_repl_latency.maximum.[{#TYPE}]</key>
+                            <delay>0</delay>
+                            <history>90d</history>
+                            <trends>365d</trends>
+                            <status>0</status>
+                            <value_type>0</value_type>
+                            <allowed_hosts/>
+                            <units>s</units>
+                            <snmpv3_contextname/>
+                            <snmpv3_securityname/>
+                            <snmpv3_securitylevel>0</snmpv3_securitylevel>
+                            <snmpv3_authprotocol>0</snmpv3_authprotocol>
+                            <snmpv3_authpassphrase/>
+                            <snmpv3_privprotocol>0</snmpv3_privprotocol>
+                            <snmpv3_privpassphrase/>
+                            <params/>
+                            <ipmi_sensor/>
+                            <authtype>0</authtype>
+                            <username/>
+                            <password/>
+                            <publickey/>
+                            <privatekey/>
+                            <port/>
+                            <description/>
+                            <inventory_link>0</inventory_link>
+                            <applications>
+                                <application>
+                                    <name>Galera</name>
+                                </application>
+                            </applications>
+                            <valuemap/>
+                            <logtimefmt/>
+                            <preprocessing>
+                                <step>
+                                    <type>5</type>
+                                    <params>(^\d+\.\d+)\/(\d+\.\d+)\/(\d+\.\d+)
+\3</params>
+                                    <error_handler>0</error_handler>
+                                    <error_handler_params/>
+                                </step>
+                            </preprocessing>
+                            <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>0</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
+                            <application_prototypes/>
+                            <master_item>
+                                <key>mysql.wsrep_evs_repl_latency.[{#TYPE}]</key>
+                            </master_item>
+                        </item_prototype>
+                        <item_prototype>
+                            <name>Galera replication latency minimum</name>
+                            <type>18</type>
+                            <snmp_community/>
+                            <snmp_oid/>
+                            <key>mysql.wsrep_evs_repl_latency.minimum.[{#TYPE}]</key>
+                            <delay>0</delay>
+                            <history>90d</history>
+                            <trends>365d</trends>
+                            <status>0</status>
+                            <value_type>0</value_type>
+                            <allowed_hosts/>
+                            <units>s</units>
+                            <snmpv3_contextname/>
+                            <snmpv3_securityname/>
+                            <snmpv3_securitylevel>0</snmpv3_securitylevel>
+                            <snmpv3_authprotocol>0</snmpv3_authprotocol>
+                            <snmpv3_authpassphrase/>
+                            <snmpv3_privprotocol>0</snmpv3_privprotocol>
+                            <snmpv3_privpassphrase/>
+                            <params/>
+                            <ipmi_sensor/>
+                            <authtype>0</authtype>
+                            <username/>
+                            <password/>
+                            <publickey/>
+                            <privatekey/>
+                            <port/>
+                            <description/>
+                            <inventory_link>0</inventory_link>
+                            <applications>
+                                <application>
+                                    <name>Galera</name>
+                                </application>
+                            </applications>
+                            <valuemap/>
+                            <logtimefmt/>
+                            <preprocessing>
+                                <step>
+                                    <type>5</type>
+                                    <params>(^\d+\.\d+)\/(\d+\.\d+)\/(\d+\.\d+)
+\1</params>
+                                    <error_handler>0</error_handler>
+                                    <error_handler_params/>
+                                </step>
+                            </preprocessing>
+                            <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>0</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
+                            <application_prototypes/>
+                            <master_item>
+                                <key>mysql.wsrep_evs_repl_latency.[{#TYPE}]</key>
+                            </master_item>
+                        </item_prototype>
+                        <item_prototype>
+                            <name>Galera replication latency raw</name>
+                            <type>2</type>
+                            <snmp_community/>
+                            <snmp_oid/>
+                            <key>mysql.wsrep_evs_repl_latency.[{#TYPE}]</key>
+                            <delay>0</delay>
+                            <history>90d</history>
+                            <trends>0</trends>
+                            <status>0</status>
+                            <value_type>1</value_type>
+                            <allowed_hosts/>
+                            <units/>
+                            <snmpv3_contextname/>
+                            <snmpv3_securityname/>
+                            <snmpv3_securitylevel>0</snmpv3_securitylevel>
+                            <snmpv3_authprotocol>0</snmpv3_authprotocol>
+                            <snmpv3_authpassphrase/>
+                            <snmpv3_privprotocol>0</snmpv3_privprotocol>
+                            <snmpv3_privpassphrase/>
+                            <params/>
+                            <ipmi_sensor/>
+                            <authtype>0</authtype>
+                            <username/>
+                            <password/>
+                            <publickey/>
+                            <privatekey/>
+                            <port/>
+                            <description/>
+                            <inventory_link>0</inventory_link>
+                            <applications>
+                                <application>
+                                    <name>Galera</name>
+                                </application>
+                            </applications>
+                            <valuemap/>
+                            <logtimefmt/>
+                            <preprocessing/>
+                            <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>0</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
+                            <application_prototypes/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera internal state EVS Protocol</name>
@@ -1391,8 +2217,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera cluster gcom uuid</name>
@@ -1433,8 +2277,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera last commited</name>
@@ -1475,8 +2337,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera local BF Aborts</name>
@@ -1517,8 +2397,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera local failed certification tests</name>
@@ -1559,8 +2457,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera local recv queue</name>
@@ -1597,9 +2513,7 @@
                                     <name>Galera</name>
                                 </application>
                             </applications>
-                            <valuemap>
-                                <name>Galera State</name>
-                            </valuemap>
+                            <valuemap/>
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
@@ -1659,9 +2573,7 @@
                                     <name>Galera</name>
                                 </application>
                             </applications>
-                            <valuemap>
-                                <name>Galera State</name>
-                            </valuemap>
+                            <valuemap/>
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
@@ -1721,9 +2633,7 @@
                                     <name>Galera</name>
                                 </application>
                             </applications>
-                            <valuemap>
-                                <name>Galera State</name>
-                            </valuemap>
+                            <valuemap/>
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
@@ -1783,9 +2693,7 @@
                                     <name>Galera</name>
                                 </application>
                             </applications>
-                            <valuemap>
-                                <name>Galera State</name>
-                            </valuemap>
+                            <valuemap/>
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
@@ -1845,9 +2753,7 @@
                                     <name>Galera</name>
                                 </application>
                             </applications>
-                            <valuemap>
-                                <name>Galera State</name>
-                            </valuemap>
+                            <valuemap/>
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
@@ -1907,9 +2813,7 @@
                                     <name>Galera</name>
                                 </application>
                             </applications>
-                            <valuemap>
-                                <name>Galera State</name>
-                            </valuemap>
+                            <valuemap/>
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
@@ -1969,9 +2873,7 @@
                                     <name>Galera</name>
                                 </application>
                             </applications>
-                            <valuemap>
-                                <name>Galera State</name>
-                            </valuemap>
+                            <valuemap/>
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
@@ -2031,9 +2933,7 @@
                                     <name>Galera</name>
                                 </application>
                             </applications>
-                            <valuemap>
-                                <name>Galera State</name>
-                            </valuemap>
+                            <valuemap/>
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
@@ -2099,8 +2999,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera local state comment</name>
@@ -2141,8 +3059,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera local state uuid</name>
@@ -2183,8 +3119,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera protocol version</name>
@@ -2225,8 +3179,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera provider name</name>
@@ -2267,8 +3239,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Galera ready</name>
@@ -2309,8 +3299,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                     </item_prototypes>
                     <trigger_prototypes>
@@ -2354,7 +3362,7 @@
                             <correlation_mode>0</correlation_mode>
                             <correlation_tag/>
                             <url/>
-                            <status>0</status>
+                            <status>1</status>
                             <priority>1</priority>
                             <description/>
                             <type>0</type>
@@ -2370,7 +3378,7 @@
                             <correlation_mode>0</correlation_mode>
                             <correlation_tag/>
                             <url/>
-                            <status>0</status>
+                            <status>1</status>
                             <priority>1</priority>
                             <description/>
                             <type>0</type>
@@ -2395,9 +3403,74 @@
                             <tags/>
                         </trigger_prototype>
                     </trigger_prototypes>
-                    <graph_prototypes/>
+                    <graph_prototypes>
+                        <graph_prototype>
+                            <name>Replication conflict {#TYPE}</name>
+                            <width>900</width>
+                            <height>400</height>
+                            <yaxismin>0.0000</yaxismin>
+                            <yaxismax>100.0000</yaxismax>
+                            <show_work_period>1</show_work_period>
+                            <show_triggers>1</show_triggers>
+                            <type>0</type>
+                            <show_legend>1</show_legend>
+                            <show_3d>0</show_3d>
+                            <percent_left>0.0000</percent_left>
+                            <percent_right>0.0000</percent_right>
+                            <ymin_type_1>1</ymin_type_1>
+                            <ymax_type_1>0</ymax_type_1>
+                            <ymin_item_1>0</ymin_item_1>
+                            <ymax_item_1>0</ymax_item_1>
+                            <graph_items>
+                                <graph_item>
+                                    <sortorder>0</sortorder>
+                                    <drawtype>2</drawtype>
+                                    <color>DC322F</color>
+                                    <yaxisside>0</yaxisside>
+                                    <calc_fnc>2</calc_fnc>
+                                    <type>0</type>
+                                    <item>
+                                        <host>Template App MySQL</host>
+                                        <key>mysql.wsrep_local_cert_failures.[{#TYPE}]</key>
+                                    </item>
+                                </graph_item>
+                                <graph_item>
+                                    <sortorder>1</sortorder>
+                                    <drawtype>2</drawtype>
+                                    <color>2AA198</color>
+                                    <yaxisside>0</yaxisside>
+                                    <calc_fnc>2</calc_fnc>
+                                    <type>0</type>
+                                    <item>
+                                        <host>Template App MySQL</host>
+                                        <key>mysql.wsrep_local_bf_aborts.[{#TYPE}]</key>
+                                    </item>
+                                </graph_item>
+                            </graph_items>
+                        </graph_prototype>
+                    </graph_prototypes>
                     <host_prototypes/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
+                    <lld_macro_paths/>
+                    <preprocessing/>
+                    <master_item/>
                 </discovery_rule>
                 <discovery_rule>
                     <name>Discovered slave stats</name>
@@ -2477,8 +3550,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Slave master port</name>
@@ -2519,8 +3610,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Slave LAG</name>
@@ -2534,7 +3643,7 @@
                             <status>0</status>
                             <value_type>3</value_type>
                             <allowed_hosts/>
-                            <units/>
+                            <units>s</units>
                             <snmpv3_contextname/>
                             <snmpv3_securityname/>
                             <snmpv3_securitylevel>0</snmpv3_securitylevel>
@@ -2561,15 +3670,33 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Slave stats</name>
                             <type>0</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>mysql.slave.stats[{$ZABBIX_SERVER_IP},{$MYSQL_DSN},{$MYSQL_USER},{$MYSQL_PASS},{#TYPE}]</key>
+                            <key>mysql.slave.stats[{$ZABBIX_SERVER_IP},{$ZABBIX_SERVER_PORT},{$MYSQL_DSN},{$MYSQL_USER},{$MYSQL_PASS},{#TYPE}]</key>
                             <delay>30s</delay>
                             <history>90d</history>
                             <trends>0</trends>
@@ -2603,8 +3730,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Slave IO running</name>
@@ -2645,8 +3790,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                         <item_prototype>
                             <name>Slave SQL running</name>
@@ -2687,8 +3850,26 @@
                             <logtimefmt/>
                             <preprocessing/>
                             <jmx_endpoint/>
+                            <timeout>3s</timeout>
+                            <url/>
+                            <query_fields/>
+                            <posts/>
+                            <status_codes>200</status_codes>
+                            <follow_redirects>1</follow_redirects>
+                            <post_type>0</post_type>
+                            <http_proxy/>
+                            <headers/>
+                            <retrieve_mode>0</retrieve_mode>
+                            <request_method>1</request_method>
+                            <output_format>0</output_format>
+                            <allow_traps>0</allow_traps>
+                            <ssl_cert_file/>
+                            <ssl_key_file/>
+                            <ssl_key_password/>
+                            <verify_peer>0</verify_peer>
+                            <verify_host>0</verify_host>
                             <application_prototypes/>
-                            <master_item_prototype/>
+                            <master_item/>
                         </item_prototype>
                     </item_prototypes>
                     <trigger_prototypes>
@@ -2701,7 +3882,7 @@
                             <correlation_tag/>
                             <url/>
                             <status>0</status>
-                            <priority>1</priority>
+                            <priority>2</priority>
                             <description/>
                             <type>0</type>
                             <manual_close>0</manual_close>
@@ -2712,12 +3893,12 @@
                             <expression>{Template App MySQL:mysql.Seconds_Behind_Master.[{#TYPE}].last()}&gt;3600</expression>
                             <recovery_mode>0</recovery_mode>
                             <recovery_expression/>
-                            <name>Slave lag</name>
+                            <name>Slave lag {ITEM.LASTVALUE1}</name>
                             <correlation_mode>0</correlation_mode>
                             <correlation_tag/>
                             <url/>
                             <status>0</status>
-                            <priority>1</priority>
+                            <priority>2</priority>
                             <description/>
                             <type>0</type>
                             <manual_close>0</manual_close>
@@ -2733,7 +3914,7 @@
                             <correlation_tag/>
                             <url/>
                             <status>0</status>
-                            <priority>1</priority>
+                            <priority>2</priority>
                             <description/>
                             <type>0</type>
                             <manual_close>0</manual_close>
@@ -2744,13 +3925,41 @@
                     <graph_prototypes/>
                     <host_prototypes/>
                     <jmx_endpoint/>
+                    <timeout>3s</timeout>
+                    <url/>
+                    <query_fields/>
+                    <posts/>
+                    <status_codes>200</status_codes>
+                    <follow_redirects>1</follow_redirects>
+                    <post_type>0</post_type>
+                    <http_proxy/>
+                    <headers/>
+                    <retrieve_mode>0</retrieve_mode>
+                    <request_method>1</request_method>
+                    <allow_traps>0</allow_traps>
+                    <ssl_cert_file/>
+                    <ssl_key_file/>
+                    <ssl_key_password/>
+                    <verify_peer>0</verify_peer>
+                    <verify_host>0</verify_host>
+                    <lld_macro_paths/>
+                    <preprocessing/>
+                    <master_item/>
                 </discovery_rule>
             </discovery_rules>
             <httptests/>
             <macros>
                 <macro>
+                    <macro>{$MAX_PROCESSES}</macro>
+                    <value>100</value>
+                </macro>
+                <macro>
                     <macro>{$MYSQL_DSN}</macro>
                     <value>localhost:3306</value>
+                </macro>
+                <macro>
+                    <macro>{$MYSQL_MAX_QUERY_TIME}</macro>
+                    <value>60</value>
                 </macro>
                 <macro>
                     <macro>{$MYSQL_PASS}</macro>
@@ -2763,11 +3972,12 @@
             </macros>
             <templates/>
             <screens/>
+            <tags/>
         </template>
     </templates>
     <triggers>
         <trigger>
-            <expression>{Template App MySQL:mysql.processlist_count.[process].max(#3)}&gt;300</expression>
+            <expression>{Template App MySQL:mysql.processlist_count.[process].max(#3)}&gt;{$MAX_PROCESSES}</expression>
             <recovery_mode>0</recovery_mode>
             <recovery_expression/>
             <name>Mysql process count {ITEM.LASTVALUE1}</name>
@@ -2783,7 +3993,7 @@
             <tags/>
         </trigger>
         <trigger>
-            <expression>{Template App MySQL:mysql.query_max_time.[process].max(#3)}&gt;300</expression>
+            <expression>{Template App MySQL:mysql.query_max_time.[process].max(#3)}&gt;{$MYSQL_MAX_QUERY_TIME}</expression>
             <recovery_mode>0</recovery_mode>
             <recovery_expression/>
             <name>Mysql query max time {ITEM.LASTVALUE1}</name>
@@ -2839,4 +4049,3 @@
         </value_map>
     </value_maps>
 </zabbix_export>
-
